@@ -2,6 +2,10 @@
 
 ### I'm a finalist at the University of Oxford
 
+<a href="#suhailkakar-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=tof-tof&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide=issues" alt="Tofunmi Adigun-Hameed Stats" align="right" />
+</a>
+
 - :books: I study Mathematics and Computer Science
 - :mortar_board: I'm in my 4th year of an integrated masters degree
 - 🌱 I’m currently learning Javascript, React and Storybook 
@@ -9,7 +13,6 @@
 - 📫  Ask me about anything, I am happy to help :relaxed:
 - 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/tofunmi-adigun-hameed/)
 - ⚡ Fun fact: I love teaching Zumba! 
-
 
 ## Favourite Tech
 
