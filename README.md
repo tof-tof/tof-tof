@@ -37,7 +37,7 @@
       <a href="#suhailkakar-tech">
         <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48" height="48" alt="TailWind" />
       </a>
-      <br>TailWind
+      <br>Tailwind CSS
     </td>
     <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
