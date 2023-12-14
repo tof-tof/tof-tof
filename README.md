@@ -3,7 +3,7 @@
 ### I'm a software engineer at Google
 
 <a href="">
-  <img src="https://github-readme-stats.vercel.app/api?username=tof-tof&show_icons=true&count_private=true&hide=issues" alt="Tofunmi Adigun-Hameed Stats" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tof-tof&show_icons=true&count_private=true&hide=issues&theme=transparent" alt="Tofunmi Adigun-Hameed Stats" align="right" />
 </a>
 
 
