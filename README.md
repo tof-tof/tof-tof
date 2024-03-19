@@ -15,7 +15,7 @@
 
 ## Favourite Tech
 
-> Here are a few tools, languages, and other things that I like to work with.
+Here are a few tools, languages, and other things that I like to work with.
 
 
 <table align="center">
@@ -34,7 +34,7 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48" height="48" alt="TailWind" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
       </a>
       <br>Tailwind CSS
     </td>
@@ -79,7 +79,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/java-programming-language.svg" width="48" height="48" alt="Java" />
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
